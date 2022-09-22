@@ -10,9 +10,13 @@ A and B can be placed together so that when a customer buys one of the product h
 People who buy one of the products can be targeted through an advertisement campaign to buy the other.
 Collective discounts can be offered on these products if the customer buys both of them.
 Both A and B can be packaged together.
+
 The process of identifying an associations between products is called association rule mining.
 
 There are three major components of Apriori algorithm:
+
 Support
+
 Confidence
+
 Lift
